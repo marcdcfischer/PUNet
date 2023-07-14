@@ -3,7 +3,6 @@ from argparse import ArgumentParser, Namespace
 from src.data.distributed_wrapper import DistributedSamplerWrapper
 import torch
 import pytorch_lightning as pl
-import torchio as tio
 from typing import Union, Dict, Optional
 import numpy as np
 

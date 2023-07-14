@@ -84,10 +84,10 @@ tensorboard-plugin-wit==1.8.1
 termcolor==1.1.0
 threadpoolctl==3.1.0
 tifffile==2022.2.9
-torch==1.12.0+cu113
+torch==1.13.1
 torchio==0.18.74
 torchmetrics==0.7.2
-torchvision==0.13.0+cu113
+torchvision==0.14.1
 tqdm==4.63.0
 typing_extensions==4.1.1
 urllib3==1.26.8
